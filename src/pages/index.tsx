@@ -1,5 +1,5 @@
-function About() {
- return <div>KPM Construction</div>
+function Index() {
+ return <div>KPM Construction Update...</div>
 }
   
-export default About
+export default Index
